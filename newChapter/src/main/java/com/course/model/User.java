@@ -17,5 +17,5 @@ public class User {
     private String sex;
     private int permission;
     private int isDelete;
-
+    //fenzhi shang jingx l xiu gai
 }
